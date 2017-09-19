@@ -1,5 +1,10 @@
 sudo: required
 
+addons:
+  apt:
+    packages:
+    - bsdtar
+
 services:
   - docker
 
