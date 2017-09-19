@@ -1,2 +1,2 @@
-# docker_archlinux-arm
-Archlinux (ARM Version) Docker configuration
+# docker_archlinux-armhf
+Archlinux (ARMv7 Version) Docker configuration
